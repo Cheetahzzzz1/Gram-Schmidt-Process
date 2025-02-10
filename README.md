@@ -2,7 +2,7 @@
 
 # Overview
 
-This repository contains Python implementation for Graham Schidt process. Each solution is implemented with clear explanations.
+This repository contains Python implementation for Graham Schmidt process. Each solution is implemented with clear explanations.
 
 # Problems Statement
 
